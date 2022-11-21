@@ -93,7 +93,7 @@ In the beginning, the project felt complicated as none of us had experiences wit
 ## Conclusion
 Looking back, our team invested more time on doing research and tutorials than coding. We are positive that we all have grasped a deeper understanding on ethereum.
 
-We have a dedicated Readme for the Front End! Check it out at ether-twitter/front-end
+We have a dedicated Readme for the Front End! Check it out at [ether-twitter/front-end](https://github.com/martinsejas/Blockchain-Twitter/tree/main/front-end)
 
 ## Group Members
  Martin Sejas, Alexandre Caspers, Grace Jiyoung Yun, Erlei Lin
