@@ -1,7 +1,7 @@
 # ether-twitter
 
 ## Project Description
-A mini recreation of Twitter using Ethereum and Solidity for the backend and ReactJS for the frontend, with our Smart Contract deployed on the Goerli Testnet.
+A mini recreation of Twitter using Ethereum and Solidity for the backend and ReactJS for the frontend, with a Smart Contract deployed on the Goerli Testnet.
 
 Check out the latest live build! (Desktop Only)
 <br>
@@ -14,7 +14,7 @@ Track the smart contract on etherscan:
  https://goerli.etherscan.io/address/0xD517074D8Da2A1cd107242222A9BCc63372dFC53)
 
 
-Our 'ether-twitter' allows anyone to\
+'ether-twitter' allows anyone to\
 **without metamask**
 * read all tweets
 
